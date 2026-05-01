@@ -9,6 +9,8 @@ Delivery speed strongly impacts customer satisfaction
 Early signs of cost inefficiency in select sub-categories
 
 Insight: Structurally healthy business with clear opportunities in optimization and demand planning.
+![](Enterprises Sales Dashboards.png)
+
 
 # 1. Where Is Revenue Truly Coming From?
 Finding: Revenue is category-driven, not region-driven.
